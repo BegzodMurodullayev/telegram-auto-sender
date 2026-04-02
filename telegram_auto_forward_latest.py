@@ -9,10 +9,9 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # API ma'lumotlari
-API_ID = 10953300
-API_HASH = '9c24426e5d6fa1d441913e3906627f87'
-SESSION_STRING = '1BJWap1sBu2Y0X5ypRgA8WSq7pX81Fat6boZUtB1VezdbY7i6vOELTwTptq2QcpYx8o3c_aDnb7adWEl6SdzGlN1F7E6_jPZvJsoN53rqANWRMlsLohLVNir92sP8ZRKRLThi1q2Kl6tP2synXDV8dSnYOZVDHBVL7uSsFFYkF-GueDxOvZNzsj1exwJqW8b4jBt9v9FXZzKpWrKVnFy_cuRNAHU4-4M5sFfbz3LLq4aQFVSZtmtqerKUW3sKU64Jyj-8S9SUgTrP1hMt6qq7h0BHk0JjK5zKmoe-0PjbIWjJ7ic-XufImrhfdNTzQB2GYP-cur0gXT6MiXnGj0eYWIjkBKRRfTc='
-
+API_ID = "api id (ind)"
+API_HASH = 'api hash'
+SESSION_STRING = ''
 # Forward qilinadigan xabar havolasi (siz bergan havolani shu yerga yozing)
 MESSAGE_LINK = 'https://t.me/NeoSaleChat/108'  # O'z havolangizni qo'ying, masalan https://t.me/channel/123
 
